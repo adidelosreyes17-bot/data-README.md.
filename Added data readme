@@ -1,0 +1,11 @@
+# Data Files
+
+## sales_raw.xlsx
+- Original messy dataset
+- Contains uncleaned sales records
+- Used to demonstrate data cleaning skills
+
+## sales_cleandata.xlsx
+- Cleaned dataset
+- Ready for PivotTable analysis and Power BI import
+- Includes standardized columns (Order ID, Amount, Profit, Category, State, etc.)
